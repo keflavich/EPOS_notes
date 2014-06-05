@@ -18,4 +18,11 @@ Comparison of Simulation and Observation
 
  - Hacar: bundle identifier not automated, so can't test directly against simulations
 
-   - but, can look at simulated boxes by eye (Moeckel & Burkhert) - 
+   - but, can look at simulated boxes by eye (Moeckel & Burkhert) 
+   - Which techniques are affected by LOS confusion?
+   - Are there methods to extract true 3rd dimension details?
+
+
+Interpretation of Observations
+
+ - 

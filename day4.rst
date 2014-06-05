@@ -245,3 +245,89 @@ From Cores to Disks: a new era of high angular resolution observations and sophi
 
 Angular momentum regimes
 Evidence of envelope mass decrease from class 0 -> I
+
+Chemical history from episodic accretion
+
+ - some indication of expanded CO-emitting regions of low-lum sources
+
+Dunham: What is the re-freezout timescale?
+A: ~10^4 years, but uncertain
+
+Pineda: How do you remove envelope contribution when measuring C18O?
+A: using simulations / models.  Using only long baselines
+
+Basu: Can the change in chemistry change the evolution?
+A: Probably not the thermal structure.  Or the ionization.
+
+Henning: Can you determine optical depths to measure grain size distribution
+with resolved obs?
+A: 
+
+Klein: What codes used for postprocessing?  How long do they take?
+A: RADMC-3D and LIME
+
+First ALMA views of H2D+ and small-scale structure toward clustered star-forming cores
+--------------------------------------------------------------------------------------
+
+    Rachel Friesen 
+    Dunlap Institute, Toronto, CA 
+    http://www.mpia-hd.mpg.de/homes/stein/EPoS/2014/C/RachelFriesen.php
+
+Substructure within cores needed to form stars
+H2D+ misaligned with continuum source
+
+Q Arce: X-ray, radio detections?
+A: can't say much
+
+Q Joao: parallel to compression wave?  Being crushed?
+A: Maybe.  
+
+Q Dunham: CO observations for outflows?
+A: Bourke has data, but no CO
+
+Q Bergin: What's the next step with ALMA?
+A: Need outflows.   Disk-tracing lines at very high res.  Poln.  Band 9 is hard.
+
+Q chair: First hydrostatic core - would it be detectable (in H2D+)?
+A: Maybe?
+
+Q Keto: Is there another H2D+ feature?
+A: Yeah, there's a feature that doesn't track anything.  H2D+ confusing
+
+Q Linz: Could the column density be not tracking the dust?
+A: No, we have good sense of the temperature
+
+New Constraints on Protostellar Multiplicity and Disk Formation
+---------------------------------------------------------------
+
+    Michael Dunham 
+    CfA-SAO, Cambridge, US 
+    http://www.mpia-hd.mpg.de/homes/stein/EPoS/2014/C/MichaelDunham.php
+
+Low multiplicity in Class 0 from CALYPSO
+cm continuum survey of protostars
+IRAS2A: double source, looks like outflows from both...
+SMA, PDbI "multiples" are false positives?
+
+Q Jaime: Are the multiples preferentially found in 1333?
+A: Yes.  No velocity information
+
+Q: Chance coagulation of blobs?
+A: Need kinematics
+
+Q Hatchell: Can Perseus be reconciled with protostar stats in other regions?
+A: We will be covering other regions
+
+Q Bergin: Why would multiplicity decrease with age?
+A: 3-body interactions possible
+
+Q Hans: Multiplicity doesn't change over Myr or Gyr.  Field carries information
+about fragmentation.  How is this survey different from Connely?
+A: They were limited to class I
+
+Q Peretto: Where are the lost companions from Class 0 to Class I?  Can they be
+found?
+A: Depends on ejection timescale.  Beyond a few 1000 au, are they multiples?
+
+Q Spectral Indices?
+A: Yes, not yet...
